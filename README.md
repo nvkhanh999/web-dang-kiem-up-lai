@@ -2,6 +2,7 @@
 Bước 1: Tải file về
 
 Bước 2: Tải những framework cần thiết FastAPI, React
+
 pip install -r requirements.txt
 
 Bước 3: Vào pgAdmin tạo database tên INT3306_RegistryTotal
