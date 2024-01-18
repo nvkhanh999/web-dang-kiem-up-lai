@@ -1,5 +1,5 @@
 # web-dang-kiem-up-lai
-Bước 1: Tải file về
+Bước 1: Tải file về xxx123
 
 Bước 2: Tải những framework cần thiết FastAPI, React
 
@@ -26,4 +26,6 @@ Bước 7.2: Chạy frontend cho center
 Tạo 1 terminal
 cd frontend-center #step 1
 npm start #step 2
+
+
 
